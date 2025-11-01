@@ -78,6 +78,7 @@ const pitchers = {
     { name: "김광현", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/77829.jpg", ERA: 4.92 },
     { name: "문승원", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/62869.jpg", ERA: 5.24 },
     { name: "송영진", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/53898.jpg", ERA: 5.86 },
+    { name: "김건우", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/51867.jpg", ERA: 3.82 },
     { name: "전영준", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/52809.jpg", ERA: 4.56 }
   ],
 
@@ -110,7 +111,8 @@ const pitchers = {
     { name: "신민혁", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/68902.jpg", ERA: 4.79 },
     { name: "전사민", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/69969.jpg", ERA: 4.34 },
     { name: "이재학", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/60263.jpg", ERA: 4.82 },
-    { name: "신영우", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/53919.jpg", ERA: 7.80 }
+    { name: "신영우", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/53919.jpg", ERA: 7.80 },
+    { name: "구창모", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/65933.jpg", ERA: 2.51 }
   ],
 
   "Lotte Giants": [
