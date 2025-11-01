@@ -69,7 +69,8 @@ const pitchers = {
     { name: "라이언 와이스", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/54755.jpg", ERA: 2.99 },
     { name: "류현진", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/76715.jpg", ERA: 3.23 },
     { name: "문동주", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/52701.jpg", ERA: 3.59 },
-    { name: "황준서", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/54729.jpg", ERA: 5.57 }
+    { name: "황준서", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/54729.jpg", ERA: 5.57 },
+    { name: "정우주", img_url: "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2025/55743.jpg", ERA: 2.85 }
   ],
 
   "SSG Landers": [
